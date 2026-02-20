@@ -2,9 +2,10 @@
 
 A collaborative repository for our team to systematically compare **Claude Code** and **GitHub Copilot** across real-world developer and data science workflows.
 
-## Important: Open Data Only
+## Important: Data Usage Guidelines
 
-All evaluations in this repo must use **publicly available, open datasets only**. Do not use any internal Equinor data, proprietary datasets, or confidential information. This ensures we can share findings openly and avoids any data governance concerns.
+- **Claude Code**: Please only use **open, publicly available datasets**. Do not use any internal Equinor data, proprietary datasets, or confidential information. This ensures we can share findings openly and avoids any data governance concerns.
+- **GitHub Copilot**: It is okay to use **internal Equinor data** for evaluations.
 
 ## Why This Exists
 
