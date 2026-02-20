@@ -2,6 +2,12 @@
 
 A collaborative repository for our team to systematically compare **Claude Code** and **GitHub Copilot** across real-world developer and data science workflows.
 
+## Pilot Overview
+
+The pilot runs until **end of March**. Each week, participants submit what they have tested. There will be a weekly check-in session where we share one or two examples from the week.
+
+If you are not interested in using Claude Code, feel free to use this time to experiment with Copilot instead — all tool experience is valuable.
+
 ## Important: Data Usage Guidelines
 
 - **Claude Code**: Please only use **open, publicly available datasets**. Do not use any internal Equinor data, proprietary datasets, or confidential information. This ensures we can share findings openly and avoids any data governance concerns.
